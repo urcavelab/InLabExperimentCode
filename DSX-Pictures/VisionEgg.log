@@ -1,0 +1,7 @@
+2010-05-06 12:05:34,147 (2077) INFO: Script /Volumes/Cave Drive/lesky/Code/DSX-Pictures/DSX-4.py started Vision Egg 1.2.1 with process id 2077.
+2010-05-06 12:05:35,770 (2077) INFO: Requesting window 1280 x 960 32 bpp (8 8 8 0 RGBA).
+2010-05-06 12:05:35,829 (2077) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-06 12:05:35,880 (2077) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-06 12:05:35,884 (2077) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-06 12:05:35,889 (2077) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-06 12:05:35,893 (2077) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.

@@ -1,0 +1,481 @@
+2010-05-07 15:02:42,684 (274) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:03:01,635 (279) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 279.
+2010-05-07 15:03:05,183 (279) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:03:05,242 (279) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:03:05,292 (279) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:03:05,298 (279) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:03:05,314 (279) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:03:05,327 (279) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:06:22,669 (284) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 284.
+2010-05-07 15:06:26,310 (284) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:06:26,374 (284) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:06:26,423 (284) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:06:26,428 (284) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:06:26,450 (284) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:06:26,464 (284) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:10:18,069 (296) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 296.
+2010-05-07 15:10:21,144 (296) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:10:21,212 (296) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:10:21,254 (296) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:10:21,260 (296) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:10:21,289 (296) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:10:21,297 (296) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:11:27,831 (300) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 300.
+2010-05-07 15:11:30,925 (300) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:11:31,006 (300) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:11:31,053 (300) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:11:31,059 (300) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:11:31,068 (300) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:11:31,082 (300) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:12:33,142 (304) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 304.
+2010-05-07 15:12:35,767 (304) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:12:35,837 (304) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:12:35,878 (304) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:12:35,884 (304) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:12:35,894 (304) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:12:35,907 (304) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:13:28,393 (308) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 308.
+2010-05-07 15:13:32,289 (308) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:13:32,387 (308) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:13:32,434 (308) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:13:32,439 (308) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:13:32,472 (308) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:13:32,485 (308) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:29:28,941 (345) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 345.
+2010-05-07 15:29:38,698 (345) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:29:38,768 (345) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:29:38,817 (345) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:29:38,821 (345) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:29:38,836 (345) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:29:38,850 (345) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:30:10,926 (349) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 349.
+2010-05-07 15:30:14,181 (349) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:30:14,249 (349) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:30:14,290 (349) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:30:14,295 (349) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:30:14,304 (349) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:30:14,318 (349) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:31:47,596 (372) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 372.
+2010-05-07 15:31:54,913 (372) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:31:55,019 (372) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:31:55,066 (372) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:31:55,071 (372) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:31:55,080 (372) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:31:55,094 (372) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:32:09,674 (379) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 379.
+2010-05-07 15:32:11,823 (379) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:32:11,889 (379) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:32:11,933 (379) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:32:11,940 (379) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:32:11,966 (379) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:32:11,976 (379) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:34:03,441 (391) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 391.
+2010-05-07 15:34:06,561 (391) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:34:06,646 (391) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:34:06,694 (391) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:34:06,700 (391) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:34:06,716 (391) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:34:06,730 (391) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:35:30,803 (397) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 397.
+2010-05-07 15:35:35,371 (397) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:35:35,430 (397) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:35:35,478 (397) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:35:35,482 (397) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:35:35,503 (397) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:35:35,516 (397) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:36:06,344 (401) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 401.
+2010-05-07 15:36:08,743 (401) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:36:08,840 (401) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:36:08,888 (401) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:36:08,894 (401) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:36:08,922 (401) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:36:08,931 (401) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:37:50,329 (412) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 412.
+2010-05-07 15:37:53,010 (412) INFO: Requesting fullscreen 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:37:53,807 (412) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:37:53,831 (412) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:37:53,835 (412) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:37:53,840 (412) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:37:53,844 (412) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:43:36,860 (426) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 426.
+2010-05-07 15:43:40,409 (426) INFO: Requesting fullscreen 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:43:41,173 (426) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:43:41,219 (426) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:43:41,223 (426) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:43:41,228 (426) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:43:41,232 (426) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:44:07,928 (438) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 438.
+2010-05-07 15:44:09,839 (438) INFO: Requesting fullscreen 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:44:10,629 (438) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:44:10,675 (438) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:44:10,679 (438) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:44:10,685 (438) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:44:10,688 (438) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:48:17,814 (454) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 454.
+2010-05-07 15:48:20,796 (454) INFO: Requesting fullscreen 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:48:21,544 (454) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:48:21,551 (454) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:48:21,554 (454) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:48:21,560 (454) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:48:21,563 (454) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:52:23,316 (469) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 469.
+2010-05-07 15:52:30,140 (469) INFO: Requesting fullscreen 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:52:30,906 (469) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:52:30,950 (469) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:52:30,954 (469) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:52:30,959 (469) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:52:30,962 (469) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-07 15:52:43,377 (476) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 476.
+2010-05-07 15:52:46,241 (476) INFO: Requesting fullscreen 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-07 15:52:47,019 (476) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-07 15:52:47,063 (476) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-07 15:52:47,067 (476) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-07 15:52:47,073 (476) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-07 15:52:47,076 (476) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:08:10,653 (366) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 366.
+2010-05-10 14:08:14,386 (366) INFO: Requesting fullscreen 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:08:15,181 (366) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:08:15,192 (366) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:08:15,193 (366) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:08:15,198 (366) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:08:15,200 (366) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:13:01,809 (380) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 380.
+2010-05-10 14:13:04,790 (380) INFO: Requesting fullscreen 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:13:05,593 (380) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:13:05,634 (380) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:13:05,636 (380) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:13:05,641 (380) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:13:05,643 (380) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:14:59,523 (389) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 389.
+2010-05-10 14:15:02,625 (389) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:15:02,700 (389) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:15:02,750 (389) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:15:02,756 (389) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:15:02,789 (389) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:15:02,802 (389) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:16:20,911 (396) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 396.
+2010-05-10 14:16:23,158 (396) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:16:23,227 (396) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:16:23,267 (396) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:16:23,273 (396) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:16:23,311 (396) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:16:23,324 (396) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:17:52,337 (407) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 407.
+2010-05-10 14:17:55,410 (407) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:17:55,468 (407) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:17:55,519 (407) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:17:55,525 (407) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:17:55,533 (407) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:17:55,548 (407) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:18:16,191 (412) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 412.
+2010-05-10 14:18:18,136 (412) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:18:18,205 (412) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:18:18,245 (412) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:18:18,249 (412) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:18:18,260 (412) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:18:18,275 (412) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:20:22,009 (419) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 419.
+2010-05-10 14:20:23,954 (419) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:20:24,014 (419) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:20:24,064 (419) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:20:24,070 (419) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:20:24,086 (419) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:20:24,100 (419) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:21:58,835 (426) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 426.
+2010-05-10 14:22:01,766 (426) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:22:01,851 (426) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:22:01,890 (426) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:22:01,896 (426) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:22:01,931 (426) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:22:01,937 (426) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:22:38,129 (430) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 430.
+2010-05-10 14:22:40,242 (430) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:22:40,320 (430) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:22:40,369 (430) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:22:40,375 (430) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:22:40,384 (430) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:22:40,396 (430) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:23:21,630 (440) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 440.
+2010-05-10 14:23:25,318 (440) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:23:25,431 (440) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:23:25,478 (440) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:23:25,484 (440) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:23:25,502 (440) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:23:25,516 (440) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:26:17,149 (447) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 447.
+2010-05-10 14:26:21,209 (447) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:26:21,268 (447) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:26:21,318 (447) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:26:21,323 (447) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:26:21,340 (447) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:26:21,355 (447) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:26:47,470 (451) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 451.
+2010-05-10 14:26:49,605 (451) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:26:49,671 (451) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:26:49,719 (451) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:26:49,725 (451) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:26:49,745 (451) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:26:49,759 (451) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:40:47,531 (483) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 483.
+2010-05-10 14:40:49,728 (483) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:40:49,838 (483) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:40:49,885 (483) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:40:49,891 (483) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:40:49,911 (483) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:40:49,926 (483) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:42:19,195 (497) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 497.
+2010-05-10 14:42:25,984 (497) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:42:26,054 (497) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:42:26,093 (497) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:42:26,099 (497) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:42:26,113 (497) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:42:26,127 (497) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:42:51,927 (501) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 501.
+2010-05-10 14:42:56,182 (501) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:42:56,253 (501) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:42:56,303 (501) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:42:56,308 (501) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:42:56,321 (501) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:42:56,335 (501) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:45:15,245 (509) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 509.
+2010-05-10 14:45:17,537 (509) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:45:17,636 (509) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:45:17,681 (509) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:45:17,688 (509) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:45:17,696 (509) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:45:17,707 (509) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:47:06,610 (515) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 515.
+2010-05-10 14:47:13,090 (515) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:47:13,148 (515) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:47:13,198 (515) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:47:13,204 (515) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:47:13,237 (515) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:47:13,250 (515) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:48:15,246 (526) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 526.
+2010-05-10 14:48:21,306 (526) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:48:21,365 (526) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:48:21,414 (526) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:48:21,418 (526) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:48:21,451 (526) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:48:21,465 (526) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 14:49:19,330 (533) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 533.
+2010-05-10 14:49:21,574 (533) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 14:49:21,643 (533) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 14:49:21,692 (533) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 14:49:21,697 (533) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 14:49:21,711 (533) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 14:49:21,725 (533) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:08:31,408 (579) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 579.
+2010-05-10 15:08:33,664 (579) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:08:33,735 (579) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:08:33,773 (579) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:08:33,779 (579) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:08:33,791 (579) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:08:33,805 (579) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:09:50,447 (590) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 590.
+2010-05-10 15:09:52,872 (590) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:09:52,943 (590) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:09:52,993 (590) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:09:52,998 (590) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:09:53,009 (590) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:09:53,023 (590) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:10:52,532 (596) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 596.
+2010-05-10 15:10:54,637 (596) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:10:54,723 (596) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:10:54,770 (596) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:10:54,776 (596) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:10:54,820 (596) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:10:54,831 (596) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:18:49,286 (626) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 626.
+2010-05-10 15:18:52,604 (626) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:18:52,704 (626) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:18:52,750 (626) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:18:52,756 (626) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:18:52,765 (626) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:18:52,776 (626) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:19:37,641 (630) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 630.
+2010-05-10 15:19:40,444 (630) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:19:40,540 (630) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:19:40,583 (630) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:19:40,589 (630) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:19:40,604 (630) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:19:40,618 (630) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:20:30,115 (636) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 636.
+2010-05-10 15:20:33,292 (636) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:20:33,362 (636) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:20:33,400 (636) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:20:33,406 (636) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:20:33,421 (636) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:20:33,436 (636) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:21:30,767 (642) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 642.
+2010-05-10 15:21:33,027 (642) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:21:33,096 (642) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:21:33,135 (642) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:21:33,142 (642) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:21:33,153 (642) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:21:33,167 (642) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:24:23,714 (659) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 659.
+2010-05-10 15:24:26,228 (659) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:24:26,310 (659) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:24:26,357 (659) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:24:26,363 (659) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:24:26,372 (659) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:24:26,381 (659) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:26:42,795 (665) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 665.
+2010-05-10 15:26:44,813 (665) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:26:44,883 (665) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:26:44,933 (665) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:26:44,939 (665) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:26:44,974 (665) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:26:44,980 (665) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:28:03,203 (676) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 676.
+2010-05-10 15:28:05,794 (676) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:28:05,893 (676) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:28:05,937 (676) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:28:05,943 (676) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:28:05,979 (676) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:28:05,992 (676) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:29:40,863 (688) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 688.
+2010-05-10 15:29:44,922 (688) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:29:44,980 (688) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:29:45,030 (688) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:29:45,036 (688) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:29:45,069 (688) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:29:45,082 (688) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-10 15:30:44,613 (695) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 695.
+2010-05-10 15:30:46,844 (695) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-10 15:30:46,914 (695) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-10 15:30:46,963 (695) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-10 15:30:46,970 (695) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-10 15:30:47,005 (695) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-10 15:30:47,017 (695) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-11 10:17:19,454 (4904) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 4904.
+2010-05-11 10:17:23,299 (4904) INFO: Requesting fullscreen 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-11 10:17:24,183 (4904) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-11 10:17:24,222 (4904) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-11 10:17:24,226 (4904) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-11 10:17:24,231 (4904) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-11 10:17:24,235 (4904) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-11 10:19:58,827 (154) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 154.
+2010-05-11 10:20:02,187 (154) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-11 10:20:02,274 (154) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-11 10:20:02,293 (154) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-11 10:20:02,311 (154) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-11 10:20:02,330 (154) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-11 10:20:02,344 (154) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-11 10:29:35,977 (182) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 182.
+2010-05-11 10:29:42,776 (182) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-11 10:29:42,855 (182) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-11 10:29:42,906 (182) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-11 10:29:42,910 (182) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-11 10:29:42,944 (182) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-11 10:29:42,957 (182) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-11 13:01:35,497 (630) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 630.
+2010-05-11 13:01:37,666 (630) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-11 13:01:37,770 (630) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-11 13:01:37,810 (630) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-11 13:01:37,830 (630) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-11 13:01:37,846 (630) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-11 13:01:37,859 (630) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-11 15:46:27,078 (1106) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 1106.
+2010-05-11 15:46:30,214 (1106) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-11 15:46:30,276 (1106) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-11 15:46:30,324 (1106) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-11 15:46:30,330 (1106) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-11 15:46:30,374 (1106) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-11 15:46:30,404 (1106) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-11 15:49:06,266 (1132) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 1132.
+2010-05-11 15:49:09,214 (1132) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-11 15:49:09,272 (1132) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-11 15:49:09,321 (1132) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-11 15:49:09,327 (1132) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-11 15:49:09,362 (1132) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-11 15:49:09,392 (1132) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-11 15:49:50,150 (1140) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 1140.
+2010-05-11 15:49:56,121 (1140) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-11 15:49:56,180 (1140) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-11 15:49:56,230 (1140) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-11 15:49:56,234 (1140) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-11 15:49:56,245 (1140) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-11 15:49:56,260 (1140) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-13 12:31:50,474 (2546) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 2546.
+2010-05-13 12:31:54,142 (2546) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-13 12:31:54,253 (2546) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-13 12:31:54,290 (2546) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-13 12:31:54,296 (2546) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-13 12:31:54,316 (2546) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-13 12:31:54,329 (2546) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-17 17:47:24,900 (6113) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 6113.
+2010-05-17 17:47:57,259 (6133) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 6133.
+2010-05-17 17:47:59,314 (6133) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-17 17:47:59,392 (6133) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-17 17:47:59,418 (6133) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-17 17:47:59,425 (6133) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-17 17:47:59,441 (6133) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-17 17:47:59,454 (6133) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-17 17:52:13,717 (6156) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 6156.
+2010-05-17 17:52:16,611 (6156) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-17 17:52:16,698 (6156) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-17 17:52:16,745 (6156) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-17 17:52:16,752 (6156) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-17 17:52:16,768 (6156) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-17 17:52:16,780 (6156) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2010-05-18 09:24:06,347 (66919) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 66919.
+2010-05-18 09:24:24,008 (66932) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 66932.
+2010-05-18 09:25:32,331 (66998) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 66998.
+2010-05-18 09:27:42,360 (67092) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 67092.
+2010-05-18 09:27:45,214 (67092) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-18 09:27:45,300 (67092) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named objc
+2010-05-18 09:27:45,320 (67092) INFO: OpenGL 2.1 NVIDIA-1.6.10, NVIDIA GeForce GT 120 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-18 09:27:45,324 (67092) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-18 09:28:45,187 (67150) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 67150.
+2010-05-18 09:29:28,565 (67189) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 67189.
+2010-05-18 09:29:30,658 (67189) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-18 09:29:30,710 (67189) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named objc
+2010-05-18 09:29:30,714 (67189) INFO: OpenGL 2.1 NVIDIA-1.6.10, NVIDIA GeForce GT 120 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-18 09:29:30,739 (67189) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-18 09:31:42,748 (67296) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 67296.
+2010-05-18 09:32:02,425 (67318) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 67318.
+2010-05-18 09:32:04,982 (67318) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-18 09:32:05,035 (67318) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named objc
+2010-05-18 09:32:05,088 (67318) INFO: OpenGL 2.1 NVIDIA-1.6.10, NVIDIA GeForce GT 120 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-18 09:32:05,092 (67318) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-18 09:37:22,713 (67556) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 67556.
+2010-05-18 09:37:24,972 (67556) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-18 09:37:25,010 (67556) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named objc
+2010-05-18 09:37:25,014 (67556) INFO: OpenGL 2.1 NVIDIA-1.6.10, NVIDIA GeForce GT 120 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-18 09:37:25,018 (67556) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-18 09:38:01,148 (67598) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 67598.
+2010-05-18 09:38:03,693 (67598) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-18 09:38:03,732 (67598) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named objc
+2010-05-18 09:38:03,736 (67598) INFO: OpenGL 2.1 NVIDIA-1.6.10, NVIDIA GeForce GT 120 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-18 09:38:03,742 (67598) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-18 09:38:23,290 (67622) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 67622.
+2010-05-18 09:38:26,141 (67622) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-18 09:38:26,178 (67622) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named objc
+2010-05-18 09:38:26,182 (67622) INFO: OpenGL 2.1 NVIDIA-1.6.10, NVIDIA GeForce GT 120 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-18 09:38:26,187 (67622) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-18 09:49:45,981 (68165) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 68165.
+2010-05-18 09:49:48,478 (68165) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-18 09:49:48,529 (68165) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named objc
+2010-05-18 09:49:48,533 (68165) INFO: OpenGL 2.1 NVIDIA-1.6.10, NVIDIA GeForce GT 120 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-18 09:49:48,540 (68165) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-18 09:49:54,536 (68179) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 68179.
+2010-05-18 09:49:56,387 (68179) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-18 09:49:56,436 (68179) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named objc
+2010-05-18 09:49:56,442 (68179) INFO: OpenGL 2.1 NVIDIA-1.6.10, NVIDIA GeForce GT 120 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-18 09:49:56,448 (68179) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-18 11:34:08,388 (8938) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 8938.
+2010-05-18 11:34:12,073 (8938) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2010-05-18 11:34:12,183 (8938) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2010-05-18 11:34:12,207 (8938) INFO: OpenGL 2.0 NVIDIA-1.5.48, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2010-05-18 11:34:12,213 (8938) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2010-05-18 11:34:12,234 (8938) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2010-05-18 11:34:12,247 (8938) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
+2013-03-21 13:52:56,286 (444) INFO: Script /Volumes/Cave Drive/lesky/Code/JLA-1.py started Vision Egg 1.2.1 with process id 444.
+2013-03-21 13:53:03,605 (444) INFO: Requesting window 640 x 480 32 bpp (8 8 8 0 RGBA).
+2013-03-21 13:53:03,730 (444) INFO: Error while trying to set_icon: <type 'exceptions.ImportError'>: No module named AppKit
+2013-03-21 13:53:03,747 (444) INFO: OpenGL 2.1 NVIDIA-7.18.18, NVIDIA GeForce 9400 OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.0)
+2013-03-21 13:53:03,765 (444) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-03-21 13:53:03,785 (444) WARNING: Failed trying to synchronize buffer swapping on darwin: <type 'exceptions.ImportError'>: No module named _darwin_sync_swap
+2013-03-21 13:53:03,797 (444) WARNING: Unable to detect or automatically synchronize buffer swapping with vertical retrace. May be possible by manually adjusting video drivers. (Look for 'Enable Vertical Sync' or similar.) If buffer swapping is not synchronized, frame by frame control will not be possible. Because of this, you will probably get a warning about calculated frames per second different than specified.
